@@ -26,11 +26,11 @@ Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer 🚀 from I
 - 🌱 I’m currently learning Unit-Testing and TypeScript.
 - 🤔 I’m looking for help for my future MERN projects.
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌) I am happy to help.
-- 📚  Published in this Book: [@99 quotes: Each Flourish Day to Fascinate!](https://www.amazon.com/99-quotes-Each-Flourish-Fascinate-ebook/dp/B08HSC46XT/ref=sr_1_1?currency=INR&dchild=1&keywords=chandani%20thanki&language=en_US&qid=1612003610&sr=8-1)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 😄 Pronouns: Bunny or Piddu😜
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
 - 📫 How to reach me: [@callmejainsahab_](https://www.instagram.com/callmejainsahab_/) or [@linkedin](https://www.linkedin.com/in/khushal-jain-3a2717192/)
+- 📚  Published in this Book: [@99 quotes: Each Flourish Day to Fascinate!](https://www.amazon.com/99-quotes-Each-Flourish-Fascinate-ebook/dp/B08HSC46XT/ref=sr_1_1?currency=INR&dchild=1&keywords=chandani%20thanki&language=en_US&qid=1612003610&sr=8-1)
 
 **Languages and Tools:**  
 
