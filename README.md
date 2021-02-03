@@ -21,8 +21,7 @@ Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer 🚀 from I
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working working as a Full Stack Developer @ [Thar Share Brokers Private Limited](https://tharshare.com/)
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 💻 I’m currently working working as a Full Stack Developer @ [Thar Share Brokers Private Limited](https://tharshare.com/)
 - 🌱 I’m currently learning Unit-Testing and TypeScript.
 - 🤔 I’m looking for help for my future MERN projects.
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌) I am happy to help.
