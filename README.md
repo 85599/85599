@@ -67,18 +67,6 @@ Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer 🚀 from I
 _Since you don't want to leave my profile just yet! Here are some things you can check :_
 
 
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++        47 mins         ████████████████████▒░░░░   81.25 % 
-Markdown   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Text       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-HTML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %  
-```
-<!--END_SECTION:waka-->
-
-
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  6,886 Karma Points           
@@ -87,10 +75,14 @@ HTML       1 min           ▓░░░░░░░░░░░░░░░░�
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
-
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=85599&show_icons=true&theme=gotham" alt="85599" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=85599&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+
+
+
 
 
 
