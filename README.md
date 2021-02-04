@@ -66,7 +66,7 @@ Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer 🚀 from I
 
 _Since you don't want to leave my profile just yet! Here are some things you can check :_
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-chirag.design-2648ff?style=flat-square&logo=google-chrome)](https://85599.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-KhushalJain-2648ff?style=flat-square&logo=google-chrome)](https://85599.github.io/)
 
 
 🚧 **My Todoist Stats:**
