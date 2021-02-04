@@ -79,6 +79,8 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=85599&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
 
 
 
