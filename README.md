@@ -79,9 +79,11 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 
 🚧 **My Todoist Stats:**
+
+
 <!-- TODO-IST:START -->
 🏆  6,886 Karma Points           
-🌸  Completed 0 tasks today           
+🌸  Completed 3 tasks today           
 ✅  Completed 524 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
