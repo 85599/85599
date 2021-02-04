@@ -68,6 +68,15 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-KhushalJain-2648ff?style=flat-square&logo=google-chrome)](https://85599.github.io/)
 
+📈 My GitHub Stats
+
+<a href="https://github.com/85599">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=85599&theme=tokyonight" />
+</a>
+<a href="https://github.com/HackrHIVE">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=85599&show_icons=true&line_height=40&theme=tokyonight&count_private=true" />
+</a>
+
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
@@ -76,10 +85,6 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 ✅  Completed 524 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
-📈 My GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=85599&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
