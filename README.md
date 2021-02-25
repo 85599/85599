@@ -1,4 +1,4 @@
-﻿### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## :rainbow: Hey Profile Visitor :eyes:
 <a href="https://github.com/85599">
   <img align="left" alt="Khushal Jain" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
@@ -66,7 +66,7 @@ Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer 🚀 from I
 
 _Since you don't want to leave my profile just yet! Here are some things you can check :_
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-KhushalJain-2648ff?style=flat-square&logo=google-chrome)](https://85599.github.io/)
+### Wanna stalk my website:question::point_right: [Click Here] [![website](https://img.shields.io/badge/PortfolioWebsite-KhushalJain-2648ff?style=flat-square&logo=google-chrome)](https://85599.github.io/):sparkles: 
 
 📈 My GitHub Stats
 
