@@ -70,6 +70,20 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 ### Wanna stalk my website:question::point_right: [![website](https://img.shields.io/badge/PortfolioWebsite-KhushalJain-2648ff?style=flat-square&logo=google-chrome)](https://85599.github.io/):sparkles: 
 
+### What am I learning:question::point_down:	
+<code>var topics = ["Flutter", "AWS", "Unity"];</code>
+
+### What are my featured projects:question::rocket:
+<code>[Niftytechnical-analysis](https://github.com/85599/Niftytechnical-analysis)</code>:hourglass:     
+<code>[WeatherApp](https://github.com/85599/WeatherApp.github.io)</code>:rainbow:  
+<code>[TharMax](https://github.com/85599/TharMax)</code>:robot:
+<code>[Stockup](https://github.com/85599/Stockup.github.io)</code>:money:     
+<code>[Quantitative-FRM---Market-Risk-App](https://github.com/85599/Quantitative-FRM---Market-Risk-App)</code>:mask:  
+<code>[Forex-excahnge](https://github.com/85599/Forex-excahnge)</code>:money:   
+
+### What can I help with:question::cyclone:
+<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
+
 📈 My GitHub Stats
 
 <a href="https://github.com/85599">
