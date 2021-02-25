@@ -77,9 +77,9 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 <code>[Niftytechnical-analysis](https://github.com/85599/Niftytechnical-analysis)</code>:hourglass:     
 <code>[WeatherApp](https://github.com/85599/WeatherApp.github.io)</code>:rainbow:  
 <code>[TharMax](https://github.com/85599/TharMax)</code>:robot:
-<code>[Stockup](https://github.com/85599/Stockup.github.io)</code>:money:     
+<code>[Stockup](https://github.com/85599/Stockup.github.io)</code>:mask:     
 <code>[Quantitative-FRM---Market-Risk-App](https://github.com/85599/Quantitative-FRM---Market-Risk-App)</code>:mask:  
-<code>[Forex-excahnge](https://github.com/85599/Forex-excahnge)</code>:money:   
+<code>[Forex-excahnge](https://github.com/85599/Forex-excahnge)</code>:mask:   
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
