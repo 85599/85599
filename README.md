@@ -9,6 +9,9 @@
 <a href="https://www.facebook.com/khushal.jain.31542">
   <img align="left" alt="Khushal's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+<a href="https://www.youtube.com/watch?v=WCv83i8HUPI&feature=youtu.be">
+  <img align="left" alt="Khushal's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=85599.85599)
