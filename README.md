@@ -66,7 +66,7 @@ Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer 🚀 from I
 
 _Since you don't want to leave my profile just yet! Here are some things you can check :_
 
-### Wanna stalk my website:question::point_right: [Click Here] [![website](https://img.shields.io/badge/PortfolioWebsite-KhushalJain-2648ff?style=flat-square&logo=google-chrome)](https://85599.github.io/):sparkles: 
+### Wanna stalk my website:question::point_right: [![website](https://img.shields.io/badge/PortfolioWebsite-KhushalJain-2648ff?style=flat-square&logo=google-chrome)](https://85599.github.io/):sparkles: 
 
 📈 My GitHub Stats
 
