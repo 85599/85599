@@ -15,7 +15,9 @@
 
 <br />
 
-Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer 🚀 from India.
+### Who am I:question: 
+<code>git commit -m "Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer 🚀 from India. [Thar Share Brokers Private Limited](https://tharshare.com/)"</code>
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
