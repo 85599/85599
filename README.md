@@ -73,7 +73,7 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 <a href="https://github.com/85599">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=85599&theme=tokyonight" />
 </a>
-<a href="https://github.com/HackrHIVE">
+<a href="https://github.com/85599">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=85599&show_icons=true&line_height=40&theme=tokyonight&count_private=true" />
 </a>
 
