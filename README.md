@@ -12,9 +12,6 @@
 <a href="https://www.youtube.com/channel/UCW1KnyyxhYQ-SVtTYZLKoNw">
   <img align="left" alt="Khushal's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="https://www.instagram.com/callmejainsahab_">
-  <img align="left" alt="Khushal's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=85599.85599)
