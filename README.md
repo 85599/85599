@@ -26,7 +26,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working working as a Full Stack Developer @ [Google india Private Limited](https://developers.google.com/community/gdg)
+- 💻 I’m currently working working as a Full Stack Developer @ [Thar Share Brokers Private Limited](https://tharshare.com/)
 - 🌱 I’m currently learning Unit-Testing and TypeScript.
 - 🤔 I’m looking for help for my future MERN projects.
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌) I am happy to help.
