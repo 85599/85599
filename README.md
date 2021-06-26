@@ -3,9 +3,6 @@
   <img align="left" alt="Khushal Jain" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 </a>
-<a href="https://www.linkedin.com/in/khushal-jain-3a2717192/">
-  <img align="left" alt="Khushal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <a href="https://www.facebook.com/khushal.jain.31542">
   <img align="left" alt="Khushal's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
@@ -19,21 +16,21 @@
 <br />
 
 ### Who am I:question: 
-<code>git commit -m "Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer 🚀 from India"</code>
+<code>git commit -m "Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer or as a Board Of Director🚀 from India"</code>
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working working as a Full Stack Developer @ [Thar Share Brokers Private Limited](https://tharshare.com/)
+- 💻 I’m currently working working as a Full Stack Developer or as a Board Of Director @ [Google](https://www.google.com/)
 - 🌱 I’m currently learning Unit-Testing and TypeScript.
 - 🤔 I’m looking for help for my future MERN projects.
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌) I am happy to help.
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 😄 Pronouns: Bunny or Piddu😜
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
-- 📫 How to reach me: [@callmejainsahab_](https://www.instagram.com/callmejainsahab_/) or [@linkedin](https://www.linkedin.com/in/khushal-jain-3a2717192/)
+- 📫 How to reach me: [@callmejainsahab_](https://www.instagram.com/callmejainsahab_/) 
 - 📚  Published in this Book: [@99 quotes: Each Flourish Day to Fascinate!](https://www.amazon.com/99-quotes-Each-Flourish-Fascinate-ebook/dp/B08HSC46XT/ref=sr_1_1?currency=INR&dchild=1&keywords=chandani%20thanki&language=en_US&qid=1612003610&sr=8-1)
 
 **Languages and Tools:**  
