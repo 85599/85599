@@ -16,14 +16,14 @@
 <br />
 
 ### Who am I:question: 
-<code>git commit -m "Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer or as a Board Of Director🚀 from India"</code>
+<code>git commit -m "Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer🚀 from India"</code>
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working working as a Full Stack Developer or as a Board Of Director @ [Google](https://www.google.com/)
+- 💻 I’m currently working working as a Full Stack Developer or as a Board Of Director @ [Thar share Broker private limited ](https://tharshare.com/)
 - 🌱 I’m currently learning Unit-Testing and TypeScript.
 - 🤔 I’m looking for help for my future MERN projects.
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌) I am happy to help.
