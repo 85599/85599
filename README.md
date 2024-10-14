@@ -19,7 +19,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working working as a Full Stack Developer or as a Board Of Director @ [Thar share Broker private limited ](https://tharshare.com/)
+- 💻 I’m currently working working as a Full Stack Developer or Trader @ [Thar share Broker private limited ](https://tharshare.com/)
 - 🌱 I’m currently learning Unit-Testing and TypeScript.
 - 🤔 I’m looking for help for my future MERN projects.
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌) I am happy to help.
