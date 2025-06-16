@@ -1,138 +1,60 @@
-## :rainbow: Hey Profile Visitor :eyes:
-<a href="https://github.com/85599">
-  <img align="left" alt="Khushal Jain" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCW1KnyyxhYQ-SVtTYZLKoNw">
-  <img align="left" alt="Khushal's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
+<h1 align="center">Hi, I'm Khushal Jain 🚀</h1>
+<p align="center">
+  <em>Full Stack Developer | Trader | Startup Enthusiast | Problem Solver</em>
+</p>
 
+<p align="center">
+  <a href="https://github.com/85599">
+    <img src="https://img.shields.io/github/followers/85599?label=GitHub&style=social" />
+  </a>
+  <a href="https://www.instagram.com/callmejainsahab_/">
+    <img src="https://img.shields.io/badge/Instagram-%40callmejainsahab_-E1306C?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCW1KnyyxhYQ-SVtTYZLKoNw">
+    <img src="https://img.shields.io/badge/YouTube-Khushal%20Jain-FF0000?style=flat&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=85599.85599)
+---
 
-<br />
+## 👨‍💻 About Me
 
-### Who am I:question: 
-<code>git commit -m "Hi, I'm Khushal Jain , a passionate self-taught Full Stack Developer🚀 from India"</code>
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
-
-- 💻 I’m currently working working as a Full Stack Developer or Trader @ [Thar share Broker private limited ](https://tharshare.com/)
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
-- 🤔 I’m looking for help for my future MERN projects.
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌) I am happy to help.
-<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 😄 Pronouns: Bunny or Piddu😜
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
-- 📫 How to reach me: [@callmejainsahab_](https://www.instagram.com/callmejainsahab_/) 
-- 📚  Published in this Book: [@99 quotes: Each Flourish Day to Fascinate!](https://www.amazon.com/99-quotes-Each-Flourish-Fascinate-ebook/dp/B08HSC46XT/ref=sr_1_1?currency=INR&dchild=1&keywords=chandani%20thanki&language=en_US&qid=1612003610&sr=8-1)
-
-**Languages and Tools:**  
-
-![vue](https://img.shields.io/badge/-React-black?style=flat-square&logo=vue)
-![graphql](https://img.shields.io/badge/-React-black?style=flat-square&logo=graphql)
-![cpp](https://img.shields.io/badge/-React-black?style=flat-square&logo=cpp)
-![Flask](https://img.shields.io/badge/-React-black?style=flat-square&logo=Flask)
-![Selenium](https://img.shields.io/badge/-React-black?style=flat-square&logo=selenium)
-![oracle](https://img.shields.io/badge/-React-black?style=flat-square&logo=oracle)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
-![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-
-### 👣 Next Steps
-
-_Since you don't want to leave my profile just yet! Here are some things you can check :_
-
-### Wanna stalk my website:question::point_right: [![website](https://img.shields.io/badge/PortfolioWebsite-KhushalJain-2648ff?style=flat-square&logo=google-chrome)](https://85599.github.io/):sparkles: 
-
-### What am I learning:question::point_down:	
-<code>var topics = ["Flutter", "AWS", "Unity"];</code>
-
-### What are my featured projects:question::rocket:
-<code>[Niftytechnical-analysis](https://github.com/85599/Niftytechnical-analysis)</code>:hourglass:     
-<code>[WeatherApp](https://github.com/85599/WeatherApp.github.io)</code>:rainbow:  
-<code>[TharMax](https://github.com/85599/TharMax)</code>:robot:
-<code>[Stockup](https://github.com/85599/Stockup.github.io)</code>:mask:     
-<code>[Quantitative-FRM---Market-Risk-App](https://github.com/85599/Quantitative-FRM---Market-Risk-App)</code>:mask:  
-<code>[Forex-excahnge](https://github.com/85599/Forex-excahnge)</code>:mask:   
-
-### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
-
-📈 My GitHub Stats
-
-<a href="https://github.com/85599">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=85599&theme=tokyonight" />
-</a>
-<a href="https://github.com/85599">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=85599&show_icons=true&line_height=40&theme=tokyonight&count_private=true" />
-</a>
-
-
-🚧 **My Todoist Stats:**
-
-
-<!-- TODO-IST:START -->
-🏆  6,886 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 524 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+```js
+const khushal = {
+  code: ["JavaScript", "TypeScript", "C++", "Python"],
+  frontend: ["React", "Next.js", "Redux", "Material UI", "SCSS"],
+  backend: ["Node.js", "Express", "MongoDB", "Firebase", "GraphQL"],
+  devOps: ["GitHub", "GitLab", "Netlify", "Vercel", "Heroku"],
+  currentlyLearning: ["Unit Testing", "AWS", "Flutter", "Unity"],
+  softSkills: ["Leadership", "Creativity", "Problem Solving"],
+  status: "Always Building 🔨"
+}
 
 
 
+📈 What I Do
+🧠 Building trading indicators with 80–90% accuracy
+
+💹 Actively trading equities, F&O, and crypto
+
+🛠️ Developing scalable MERN stack applications
+
+🤝 Collaborating with businesses for tech + trading solutions
+
+📚 Reading history, financial markets & tech evolution
 
 
 
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=85599&theme=radical&show_icons=true&count_private=true" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=85599&theme=radical&layout=compact" /> </p>
 
+🤝 Connect with Me
+📷 Instagram: @callmejainsahab_
+
+🎥 YouTube: Khushal Jain
+
+💼 Website: Portfolio
+
+💬 Let’s collaborate on something exciting — coding, trading, or business strategy.
+
+<p align="center"> Made with ❤️ from India 🇮🇳 </p> ```
