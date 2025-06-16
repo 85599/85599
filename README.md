@@ -1,12 +1,19 @@
-## :rainbow: Hey Profile Visitor :eyes:
-<a href="https://github.com/85599">
-  <img align="left" alt="Khushal Jain" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCW1KnyyxhYQ-SVtTYZLKoNw">
-  <img align="left" alt="Khushal's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
+## 🌈 Hey Profile Visitor 👀
 
-![](https://visitor-badge.glitch.me/badge?page_id=85599.85599)
+<p align="left">
+  <a href="https://github.com/85599" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCW1KnyyxhYQ-SVtTYZLKoNw" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<!-- Visitor count (optional fallback badge) -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=85599&label=Profile%20views&color=0e75b6&style=flat" alt="85599" />
+</p>
+
 
 <br clear="left"/>
 
