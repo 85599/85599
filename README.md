@@ -7,6 +7,9 @@
   <a href="https://www.youtube.com/channel/UCW1KnyyxhYQ-SVtTYZLKoNw" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/callmejainsahab_" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <!-- Visitor count (optional fallback badge) -->
